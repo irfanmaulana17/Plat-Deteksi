@@ -293,3 +293,4 @@ professional support requests please visit [https://ultralytics.com/contact](htt
 # Vechile-Detection
 # Vechile-Detection
 # Vechile-Detection
+# Plat-Deteksi
